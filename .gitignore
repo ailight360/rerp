@@ -1,0 +1,30 @@
+```
+# Dependencies
+vendor/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# PHP specific
+*.php~
+*.php.bak
+
+# Build artifacts
+build/
+dist/
+*.phar
+
+# Cache directories
+.cache/
+.tmp/
+```
